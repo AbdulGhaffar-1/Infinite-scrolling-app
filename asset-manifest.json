@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/infinity-scrolling/static/js/main.3fd7842b.js",
-    "index.html": "/infinity-scrolling/index.html",
-    "main.3fd7842b.js.map": "/infinity-scrolling/static/js/main.3fd7842b.js.map"
+    "main.js": "/infinity-scrolling-app/static/js/main.3fd7842b.js",
+    "index.html": "/infinity-scrolling-app/index.html",
+    "main.3fd7842b.js.map": "/infinity-scrolling-app/static/js/main.3fd7842b.js.map"
   },
   "entrypoints": [
     "static/js/main.3fd7842b.js"
